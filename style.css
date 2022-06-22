@@ -1,0 +1,33 @@
+.mandiv{
+    width: 1265px;
+    margin: auto; 
+    border: 2px solid #ddd;
+}
+
+.header-section img {
+    width: 1265px;
+    height: 500px;
+  } 
+
+  .card img {
+    width: 140px;
+    text-align: center; 
+  }
+  .card{
+      display: inline-block;
+      padding: 30px; 
+      margin-top: 10px;
+  }
+  .card h1 {
+    font-size: 30px;
+    text-transform: uppercase;
+    margin: 7px;
+  }
+  .service{
+      margin-bottom: px;
+  }
+  .footer-p{
+    font-size: 27px;
+    text-transform: capitalize;
+    margin: 30px;
+  }
